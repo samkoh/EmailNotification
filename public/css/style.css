@@ -1,0 +1,23 @@
+body {
+	background: white;
+}
+
+background {
+    position: absolute;
+    left: 0;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     background: 50% 50% no-repeat;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     }
+
+ .header .background {
+        background-image: url("http://image.shutterstock.com/display_pic_with_logo/61617/61617,1236836743,3/stock-vector-this-illustration-depicts-the-word-song-with-a-rounded-music-note-26503930.jpg");
+        width: 450px;
+        height: 300px;
+        z-index: -1;
+        }
